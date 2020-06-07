@@ -35,8 +35,9 @@
 
 * Açılan pencereden "Hardware accelerator" sekmesini "GPU" olarak değiştirin.
 * Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
-* Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar, Cihaza yeniden kurulum yapılır.
 
 ![Screenshot_2020-06-07_12-40-51](https://user-images.githubusercontent.com/54184905/83965398-3a151680-a8bc-11ea-8836-c4ab94030916.png)
+
+* Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar, Cihaza yeniden kurulum yapılır.
 
 * Ücretsiz bir şekilde bir GPU sahibi oldunuz :)
