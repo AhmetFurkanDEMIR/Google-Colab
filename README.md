@@ -81,6 +81,7 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 
 * Ücretsiz bir şekilde bir TPU sahibi oldunuz :)
 
+
 # Oluşturduğumuz Notebook hakkında bilgi
 
 * Oluşturduğunuz Notebookları 12 saat boyunca açık bırakabilirsiniz. Eğer Colab PRO kullanıyorsanız 24 saat boyunca CPU/GPU/TPU desteği alabilirsiniz.
@@ -88,6 +89,7 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 * Jupyter-Notebook da yapabildiğiniz her şeyi burada da yapabilirsiniz.
 
 * Oluşturduğunuz notebookları indirebilirsiniz veya Python scripti haline getirip indirebilirsiniz.
+
 
 # Veri setlerimizi nasıl kullanacağız ?
 
@@ -105,6 +107,7 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 
 ![Screenshot_2020-06-07_13-25-15](https://user-images.githubusercontent.com/54184905/83966366-7ea3b080-a8c2-11ea-9c91-23e80ce91e4c.png)
 
+
 # CPU vs GPU vs TPU
 
 * Bu üç donanımın testini yapmak için, MNIST Veri Kümesi Kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) Eğitimini yapacağız. Eğitimi Keras modülü ile gerçekleştireceğiz.
@@ -121,4 +124,8 @@ Veri setini keras.datasets üzerinden indireceğiz.
 ### Tamamen bağlı katmanlardan oluşmuş bir modelin CPU üzerindeki eğitim süresi
 
 ![Screenshot_2020-06-07_14-37-22](https://user-images.githubusercontent.com/54184905/83967720-b4e62d80-a8cc-11ea-815f-68411204fac7.png)
+
+* Eğitim 77.360 saniye sürdü.
+
+### Tamamen bağlı katmanlardan oluşmuş bir modelin GPU üzerindeki eğitim süresi
 
