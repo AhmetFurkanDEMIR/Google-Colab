@@ -80,3 +80,11 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 * Ardından Save 'e basınız. Google bilgisayara TPU desteği sağlar ve Cihaza yeniden kurulum yapılır.
 
 * Ücretsiz bir şekilde bir TPU sahibi oldunuz :)
+
+# Oluşturduğumuz Notebook hakkında bilgi
+
+* Oluşturduğunuz Notebookları 12 saat boyunca açık bırakabilirsiniz. Eğer Colab PRO kullanıyorsanız 24 saat boyunca CPU/GPU/TPU desteği alabilirsiniz.
+
+* Jupyter-Notebook da yapabildiğiniz her şeyi burada da yapabilirsiniz.
+
+* Oluşturduğunuz notebookları indirebilirsiniz veya Python scripti haline getirip indirebilirsiniz. 
