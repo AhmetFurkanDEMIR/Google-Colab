@@ -27,6 +27,7 @@
 * Neden GPU ?
 * Bilgisayar dünyası derin öğrenme ve yapay zeka ile inanılmaz bir değişim yaşıyor. Derin öğrenme, hem eğitim hem de çıkarım için GPU hızlandırmasına dayanır.
 
+![index](https://user-images.githubusercontent.com/54184905/83965577-40f05900-a8bd-11ea-9cf4-500251a89b6e.png)
 
 * Sol üstte bulunan Edit sekmesine gidiniz, oradan "Notebook settings" e tıklayınız
 
