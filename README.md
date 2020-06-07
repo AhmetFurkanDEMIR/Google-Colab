@@ -91,4 +91,9 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 
 # Veri setlerimizi nasıl kullanacağız ?
 
-* Bunun için sol tarafta bulunan Files kısmından Upload 'a basınız açılan pencereden verilerinizi seçip upload edebilirsiniz.
+* 1-) Sol tarafta bulunan Files kısmından Upload 'a basınız açılan pencereden verilerinizi seçip upload edebilirsiniz.
+
+![Screenshot_2020-06-07_13-14-19](https://user-images.githubusercontent.com/54184905/83966150-2b7d2e00-a8c1-11ea-9cac-169b97994320.png)
+
+* 2-) Verilerinizi Google Drive 'a yükleyip oradan import edebilirsiniz.
+* Verilerinizi Drive upload ettikten sonra notebookumuzdan Sol tarafta bulunan Files kısmından Mount drive 'e basınız açılan pencereden "CONNECT TO GOOGLE DRİVER" kısmına basınız, artık Drive 'ınızda bulunan herşeyi kodunuzda kullanabilirsiniz.
