@@ -115,23 +115,23 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 ![mnist-examples](https://user-images.githubusercontent.com/54184905/83967499-c4647700-a8ca-11ea-8d09-9aac4c062c99.png)
 
-* Bu testleri kendinizde yapabilirsiniz : https://colab.research.google.com/drive/1F7vDgGYTZcGGJ204yCKWw6eJSwCG6rfA
+* Bu testleri kendinizde yapabilirsiniz : https://colab.research.google.com/drive/1akgItllrRuyX6I5hZ8_g8_uVfUyokglo#scrollTo=LD_P0cAJYUYe
 
 ![Screenshot_2020-06-07_14-34-40](https://user-images.githubusercontent.com/54184905/83967636-1eb20780-a8cc-11ea-821c-2b7ef637f90c.png)
 
 * Bu şekilde bitiş saatinden başlangıç saatini çıkartarak eğitimin ne kadar sürede bittiğini öğrenebiliriz.
 
-### Tamamen bağlı katmanlardan oluşmuş bir modelin CPU üzerindeki eğitim süresi
+### Oluşturduğumuz modelin CPU üzerindeki eğitim süresi
 
 ![Screenshot_2020-06-07_14-37-22](https://user-images.githubusercontent.com/54184905/83967720-b4e62d80-a8cc-11ea-815f-68411204fac7.png)
 
 * Eğitim 77.360 saniye sürdü.
 
-### Tamamen bağlı katmanlardan oluşmuş bir modelin GPU üzerindeki eğitim süresi
+### Oluşturduğumuz modelin GPU üzerindeki eğitim süresi
 
 ![Screenshot_2020-06-07_14-42-21](https://user-images.githubusercontent.com/54184905/83967780-3ccc3780-a8cd-11ea-967c-c5db22124d5f.png)
 
 * Eğitim 29.966 saniye sürdü.
 
-### Tamamen bağlı katmanlardan oluşmuş bir modelin TPU üzerindeki eğitim süresi
+### Oluşturduğumuz modelin TPU üzerindeki eğitim süresi
 
