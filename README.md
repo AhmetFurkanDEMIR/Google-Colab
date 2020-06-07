@@ -6,4 +6,4 @@
     GPU'lara ücretsiz erişim
     Kolay paylaşım
 
-Öğrenci, veri bilimcisi veya yapay zeka araştırmacısı olun, Colab işinizi kolaylaştırabilir.
+Öğrenci, veri bilimcisi veya yapay zeka araştırmacısı iseniz Google Colab işinizi kolaylaştırır.
