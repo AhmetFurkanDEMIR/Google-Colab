@@ -40,4 +40,8 @@
 
 * Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar, Cihaza yeniden kurulum yapılır.
 
+![Screenshot_2020-06-07_12-51-07](https://user-images.githubusercontent.com/54184905/83965633-a93f3a80-a8bd-11ea-9d5e-3f922cb609b3.png)
+
 * Ücretsiz bir şekilde bir GPU sahibi oldunuz :)
+
+###### Burada
