@@ -106,4 +106,5 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 ![Screenshot_2020-06-07_13-25-15](https://user-images.githubusercontent.com/54184905/83966366-7ea3b080-a8c2-11ea-9c91-23e80ce91e4c.png)
 
 # CPU vs GPU vs TPU
-*
+
+* Bu üç donanımın testini yapmak için, MNIST Veri Kümesi Kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) Eğitimini yapacağız. Bu testleri kendinizde yapabilirsiniz : https://colab.research.google.com/drive/1F7vDgGYTZcGGJ204yCKWw6eJSwCG6rfA
