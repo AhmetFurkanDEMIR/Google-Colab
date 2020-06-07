@@ -14,7 +14,8 @@
 # Yeni bir notebook oluşturalım (CPU)
 
 * Google Colab sayfasına ilerliyeli : https://colab.research.google.com/notebooks/intro.ipynb#recent=true
-* Burada sağ aşağıda bulunan "NEW NOTEBOOK" 'a tıklayınız.
+* Burada, sağ aşağıda bulunan "NEW NOTEBOOK" 'a tıklayınız.
+* Google sizin için yeni bir notebook oluşturur ve bu notebook 'u artık Google 'ın bilgisayarlarından kullanacaksınız.
 
 ![Screenshot_2020-06-07_12-21-04](https://user-images.githubusercontent.com/54184905/83965030-6bd8ae00-a8b9-11ea-8a90-6736c35cb474.png)
 
