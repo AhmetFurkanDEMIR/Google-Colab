@@ -30,4 +30,5 @@
 
 * Açılan pencereden "Hardware accelerator" sekmesini "GPU" olarak değiştirin.
 * Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
+* Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar, Cihaza yeniden kurulum yapılır.
 
