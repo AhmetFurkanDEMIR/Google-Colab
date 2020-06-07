@@ -69,3 +69,8 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 * Google’ın sunduğu bu teknolojinin arkasındaki ekibe göre, “Yapay sinir ağları temelinden faydalanan üretilen yapay zeka uygulamalarını eğitmek için kullanılan TPU’lar, CPU ve GPU’lara göre 15 ila 30 kat daha hızlıdır!”
 
 * ALINTI orjinal içerik : https://medium.com/@ayyucekizrak/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d
+
+* Şimdi TPU 'yu devreye sokalım.
+* Sol üstte bulunan Edit sekmesine gidiniz, oradan "Notebook settings" e tıklayınız
+* * Açılan pencereden "Hardware accelerator" sekmesini "TPU" olarak değiştirin.
+* Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
