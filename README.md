@@ -117,3 +117,5 @@ Veri setini keras.datasets üzerinden indireceğiz.
 ![Screenshot_2020-06-07_14-34-40](https://user-images.githubusercontent.com/54184905/83967636-1eb20780-a8cc-11ea-821c-2b7ef637f90c.png)
 
 * Bu şekilde bitiş saatinden başlangıç saatini çıkartarak eğitimin ne kadar sürede bittiğini öğrenebiliriz.
+
+### Tamamen bağlı katmanlardan oluşmuş bir modelin CPU üzerindeki eğitim süresi
