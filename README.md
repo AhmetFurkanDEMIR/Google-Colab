@@ -44,4 +44,8 @@
 
 * Ücretsiz bir şekilde bir GPU sahibi oldunuz :)
 
-### Burada
+### Önemli bir bilgi
+
+* Google Colab 'ın ücretsiz versiyonunu kullanıyorsanız K80 ve P100 GPU 'larını kullanabilirsiniz. Bu GPU 'lara öncelikli Erişiminiz yoktur. Eğer PRO versiyonunu kullanıyorsanız T4 ve P100 GPU 'larını öncelikli olarak kullanabilirsiniz.
+           
+      Google Colab PRO : https://colab.research.google.com/signup
