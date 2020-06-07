@@ -1,3 +1,6 @@
+![licence](https://img.shields.io/badge/demir-ai-blueviolet)
+![licence](https://img.shields.io/badge/Ahmet%20Furkan-DEM%C4%B0R-blue)
+
 # Google Colab
 
 ![1*Lad06lrjlU9UZgSTHUoyfA](https://user-images.githubusercontent.com/54184905/83964957-ece37580-a8b8-11ea-909d-2a5a00292f73.png)
