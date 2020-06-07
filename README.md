@@ -129,3 +129,9 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 ### Tamamen bağlı katmanlardan oluşmuş bir modelin GPU üzerindeki eğitim süresi
 
+![Screenshot_2020-06-07_14-42-21](https://user-images.githubusercontent.com/54184905/83967780-3ccc3780-a8cd-11ea-967c-c5db22124d5f.png)
+
+* Eğitim 29.966 saniye sürdü.
+
+### Tamamen bağlı katmanlardan oluşmuş bir modelin TPU üzerindeki eğitim süresi
+
