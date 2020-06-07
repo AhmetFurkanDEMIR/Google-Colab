@@ -54,3 +54,18 @@
       
 
 # Oluşturduğumuz Notebook 'a TPU Desteği Sağlayalım
+
+* TPU nedir ?
+
+* -Tensor Processing Unit- yani Tensör İşlem Birimi dört bağımsız çipten oluşmaktadır. Her bir çip, Tensör Çekirdek (Tensor Core) adı verilen iki hesaplama çekirdeğinden oluşur. Bir Tensör Çekirdek, skaler, vektör ve matris birimlerinden (MXU) oluşur.
+
+* Ayrıca, her Tensör Çekirdeği ile 8 GB’lık çip bellek (HBM) ilişkilendirilmiştir. TPU üzerindeki 8 çekirdeğin her biri, kullanıcı hesaplarını (XLA ops) bağımsız olarak yürütebilir.
+Yüksek bant genişliğine sahip ara bağlantı yolları, çiplerin birbirleriyle doğrudan iletişim kurmasını sağlar. XLA, Tensorflow backend için deneysel bir JIT(Just in Time) derleyicisidir. CPU (Merkezi İşlem Birimi) ve GPU (Grafik İşlem Birimi)’dan en önemli farkı ve özelliği derin öğrenmenin yapı taşı olan lineer cebir yani matris işlemlerinin paralel olarak ve çok boyutlu olarak gerçekleşmesi için tasarlanmış spesifik bir donanım olmasıdır.
+
+Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
+
+2015 yılında Google ilk TPU merkezini kurmuştur. Çünkü Google Aramalar, Çeviri, Fotoğraflar, E-posta ve Bulut gibi uygulamalarının tamamında derin öğrenme ve dolayısyla tensör işlemler uygulamaktadır.
+
+* Google’ın sunduğu bu teknolojinin arkasındaki ekibe göre, “Yapay sinir ağları temelinden faydalanan üretilen yapay zeka uygulamalarını eğitmek için kullanılan TPU’lar, CPU ve GPU’lara göre 15 ila 30 kat daha hızlıdır!”
+
+* ALINTI orjinal içerik : https://medium.com/@ayyucekizrak/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d
