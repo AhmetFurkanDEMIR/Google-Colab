@@ -72,5 +72,5 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 
 * Şimdi TPU 'yu devreye sokalım.
 * Sol üstte bulunan Edit sekmesine gidiniz, oradan "Notebook settings" e tıklayınız
-* * Açılan pencereden "Hardware accelerator" sekmesini "TPU" olarak değiştirin.
+* Açılan pencereden "Hardware accelerator" sekmesini "TPU" olarak değiştirin.
 * Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
