@@ -44,4 +44,4 @@
 
 * Ücretsiz bir şekilde bir GPU sahibi oldunuz :)
 
-###### Burada
+### Burada
