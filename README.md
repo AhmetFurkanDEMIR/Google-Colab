@@ -121,6 +121,8 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 * Bu şekilde bitiş saatinden başlangıç saatini çıkartarak eğitimin ne kadar sürede bittiğini öğrenebiliriz.
 
+* UYARI !!! : Testte çıkacak sonuçlar bu model için geçerlidir, Test edeceğimiz donanımlar farklı problemlerde farklı sonuçlar verebilir.
+
 ### Oluşturduğumuz modelin CPU üzerindeki eğitim süresi
 
 ![Screenshot_2020-06-07_14-59-42](https://user-images.githubusercontent.com/54184905/83968122-a3eaeb80-a8cf-11ea-9f28-50313db207e9.png)
@@ -138,3 +140,7 @@ Veri setini keras.datasets üzerinden indireceğiz.
 ![Screenshot_2020-06-07_15-05-37](https://user-images.githubusercontent.com/54184905/83968238-6e92cd80-a8d0-11ea-80d9-227746403e2f.png)
 
 * Eğitim 47.725 saniye sürdü.
+
+# Sonuç
+
+* 
