@@ -117,7 +117,7 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 * Bu testleri kendinizde yapabilirsiniz : https://colab.research.google.com/drive/1akgItllrRuyX6I5hZ8_g8_uVfUyokglo#scrollTo=LD_P0cAJYUYe
 
-![Screenshot_2020-06-07_14-34-40](https://user-images.githubusercontent.com/54184905/83967636-1eb20780-a8cc-11ea-821c-2b7ef637f90c.png)
+![Screenshot_2020-06-07_14-52-45](https://user-images.githubusercontent.com/54184905/83968001-ad278880-a8ce-11ea-9e21-2d2fc8e583a5.png)
 
 * Bu şekilde bitiş saatinden başlangıç saatini çıkartarak eğitimin ne kadar sürede bittiğini öğrenebiliriz.
 
