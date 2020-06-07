@@ -2,6 +2,8 @@
 
 ![1*Lad06lrjlU9UZgSTHUoyfA](https://user-images.githubusercontent.com/54184905/83964957-ece37580-a8b8-11ea-909d-2a5a00292f73.png)
 
+* Google Colaboratory ile ücretsiz bir şekilde Keras, Tensorflow ve PyTorch kullanarak derin öğrenme uygulamaları geliştirebilirsiniz.
+
 * Colaboratory veya kısaca "Colab", tarayıcınıza Python kodları yazmanıza ve yürütmenize olanak tanır.
 Öğrenci, veri bilimcisi veya yapay zeka araştırmacısı iseniz Google Colab işinizi kolaylaştırır.
 
@@ -10,6 +12,12 @@
       GPU'lara ücretsiz erişim.
       
       Kolay paylaşım.
+
+
+# Google Colab ile Ne Yapabilirim?
+
+* Python programlama dilinde uygulama geliştirebilirsiniz.
+* Keras, TensorFlow, PyTorch ve OpenCV gibi kütüphaneleri kullanarak derin öğrenme (deep learning) uygulamaları geliştirebilirsiniz. Colab’ı diğer ücretsiz bulut servislerinden ayıran en önemli özellik; Colab’ın ücretsiz GPU sağlamasıdır.
 
 
 # Yeni bir notebook oluşturalım (CPU)
