@@ -87,4 +87,8 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 
 * Jupyter-Notebook da yapabildiğiniz her şeyi burada da yapabilirsiniz.
 
-* Oluşturduğunuz notebookları indirebilirsiniz veya Python scripti haline getirip indirebilirsiniz. 
+* Oluşturduğunuz notebookları indirebilirsiniz veya Python scripti haline getirip indirebilirsiniz.
+
+# Veri setlerimizi nasıl kullanacağız ?
+
+* Bunun için sol tarafta bulunan Files kısmından Upload 'a basınız açılan pencereden verilerinizi seçip upload edebilirsiniz.
