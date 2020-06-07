@@ -135,3 +135,6 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 ### Oluşturduğumuz modelin TPU üzerindeki eğitim süresi
 
+![Screenshot_2020-06-07_15-05-37](https://user-images.githubusercontent.com/54184905/83968238-6e92cd80-a8d0-11ea-80d9-227746403e2f.png)
+
+* Eğitim 47.725 saniye sürdü.
