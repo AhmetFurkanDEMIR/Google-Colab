@@ -104,3 +104,6 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 * "!ls" şeklinde klasörünüzdeki verileri inceleyebilirsiniz.
 
 ![Screenshot_2020-06-07_13-25-15](https://user-images.githubusercontent.com/54184905/83966366-7ea3b080-a8c2-11ea-9c91-23e80ce91e4c.png)
+
+# CPU vs GPU vs TPU
+*
