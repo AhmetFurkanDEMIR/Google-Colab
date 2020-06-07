@@ -149,6 +149,14 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 * Eğitim 47.725 saniye sürdü.
 
-# Sonuç
 
-* 
+# Özet
+
+* Google Colab size ücretisz şekilde CPU/GPU/TPU hizmeti vermektedir. Açtığınız bir notebooku 12 saat boyunca kullanabilirsiniz.
+(K80 ve P100 GPU)
+
+* Google Colab PRO kullanarak bu donanımlara öncelikli erişim hakkı sağlayabilirsiniz. Açtığınız bir notebooku 24 saat boyunca kullanabilirsiniz. (P100 ve T4 GPU)
+
+* CPU/GPU/TPU 'lar farklı problemlerde farklı sonuçlar verebilir.
+
+* Bizim geliştirdiğimiz modelde açık ara GPU galip gelmiştir.
