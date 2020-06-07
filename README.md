@@ -20,8 +20,13 @@
 ![Screenshot_2020-06-07_12-21-04](https://user-images.githubusercontent.com/54184905/83965030-6bd8ae00-a8b9-11ea-8a90-6736c35cb474.png)
 
 * CPU destekli bir bilgisayara uzaktan bağlandınız. Python kodlarınızı bu bilgisayarda yazıp çalıştırabilirsiniz.
+(İlk satıra "!nvidia-smi" yazıp Shift+Enter 'e basıp test edebilirsiniz.)
 
 # Oluşturduğumuz Notebook 'a GPU Desteği Sağlayalım
 
 * Sol üstte bulunan Edit sekmesine gidiniz, oradan "Notebook settings" e tıklayınız
+
+![Screenshot_2020-06-07_12-28-05](https://user-images.githubusercontent.com/54184905/83965309-68debd00-a8bb-11ea-92ce-1a5ab599854d.png)
+
+* 
 
