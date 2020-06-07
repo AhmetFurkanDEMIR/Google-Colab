@@ -123,9 +123,9 @@ Veri setini keras.datasets üzerinden indireceğiz.
 
 ### Oluşturduğumuz modelin CPU üzerindeki eğitim süresi
 
-![Screenshot_2020-06-07_14-37-22](https://user-images.githubusercontent.com/54184905/83967720-b4e62d80-a8cc-11ea-815f-68411204fac7.png)
+![Screenshot_2020-06-07_14-59-42](https://user-images.githubusercontent.com/54184905/83968122-a3eaeb80-a8cf-11ea-9f28-50313db207e9.png)
 
-* Eğitim 77.360 saniye sürdü.
+* Eğitim 182.847 saniye sürdü.
 
 ### Oluşturduğumuz modelin GPU üzerindeki eğitim süresi
 
