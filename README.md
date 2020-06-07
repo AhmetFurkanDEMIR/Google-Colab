@@ -40,7 +40,7 @@
 
 ![Screenshot_2020-06-07_12-40-51](https://user-images.githubusercontent.com/54184905/83965398-3a151680-a8bc-11ea-8836-c4ab94030916.png)
 
-* Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar, Cihaza yeniden kurulum yapılır.
+* Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar ve Cihaza yeniden kurulum yapılır.
 
 ![Screenshot_2020-06-07_12-51-07](https://user-images.githubusercontent.com/54184905/83965633-a93f3a80-a8bd-11ea-9d5e-3f922cb609b3.png)
 
@@ -74,3 +74,9 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 * Sol üstte bulunan Edit sekmesine gidiniz, oradan "Notebook settings" e tıklayınız
 * Açılan pencereden "Hardware accelerator" sekmesini "TPU" olarak değiştirin.
 * Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
+
+![Screenshot_2020-06-07_13-06-28](https://user-images.githubusercontent.com/54184905/83965922-cffe7080-a8bf-11ea-81d2-a2a2fcbb9eb7.png)
+
+* Ardından Save 'e basınız. Google bilgisayara TPU desteği sağlar ve Cihaza yeniden kurulum yapılır.
+
+* Ücretsiz bir şekilde bir TPU sahibi oldunuz :)
