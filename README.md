@@ -99,3 +99,8 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 * Verilerinizi Drive upload ettikten sonra notebookumuzdan Sol tarafta bulunan Files kısmından Mount drive 'e basınız açılan pencereden "CONNECT TO GOOGLE DRİVER" kısmına basınız, artık Drive 'ınızda bulunan herşeyi kodunuzda kullanabilirsiniz.
 
 ![Screenshot_2020-06-07_13-20-55](https://user-images.githubusercontent.com/54184905/83966301-13f27500-a8c2-11ea-912d-69b0fd2b5ca7.png)
+
+* "%cd /content/drive/My Drive/..." şeklinde istediğiniz klasöre ilerleyebilirsiniz.
+* "!ls" şeklinde klasörünüzdeki verileri inceleyebilirsiniz.
+
+![Screenshot_2020-06-07_13-25-15](https://user-images.githubusercontent.com/54184905/83966366-7ea3b080-a8c2-11ea-9c91-23e80ce91e4c.png)
