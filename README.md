@@ -24,6 +24,10 @@
 
 # Oluşturduğumuz Notebook 'a GPU Desteği Sağlayalım
 
+* Neden GPU ?
+* Bilgisayar dünyası derin öğrenme ve yapay zeka ile inanılmaz bir değişim yaşıyor. Derin öğrenme, hem eğitim hem de çıkarım için GPU hızlandırmasına dayanır.
+
+
 * Sol üstte bulunan Edit sekmesine gidiniz, oradan "Notebook settings" e tıklayınız
 
 ![Screenshot_2020-06-07_12-28-05](https://user-images.githubusercontent.com/54184905/83965309-68debd00-a8bb-11ea-92ce-1a5ab599854d.png)
@@ -31,4 +35,6 @@
 * Açılan pencereden "Hardware accelerator" sekmesini "GPU" olarak değiştirin.
 * Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
 * Ardından Save 'e basınız. Google bilgisayara GPU desteği sağlar, Cihaza yeniden kurulum yapılır.
+
+![Screenshot_2020-06-07_12-40-51](https://user-images.githubusercontent.com/54184905/83965398-3a151680-a8bc-11ea-8836-c4ab94030916.png)
 
