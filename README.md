@@ -28,5 +28,6 @@
 
 ![Screenshot_2020-06-07_12-28-05](https://user-images.githubusercontent.com/54184905/83965309-68debd00-a8bb-11ea-92ce-1a5ab599854d.png)
 
-* 
+* Açılan pencereden "Hardware accelerator" sekmesini "GPU" olarak değiştirin.
+* Runtime shape sekmesini Standart olarak bırakabilirsiniz. (yüksek bellek kullanımı isteyen kodlar için "High-RAM" olarak seçiniz.)
 
