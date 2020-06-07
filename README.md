@@ -19,7 +19,7 @@
 
 ![Screenshot_2020-06-07_12-21-04](https://user-images.githubusercontent.com/54184905/83965030-6bd8ae00-a8b9-11ea-8a90-6736c35cb474.png)
 
-* CPU destekli bir bilgisayara uzaktan bağlandınız. Python kodlarınızı bu bilgisayarda yazıp çalıştırabilirsiniz.
+* CPU destekli bir bilgisayara uzaktan bağlandınız. Artık Jupyter-Notebook 'da yapabildiğiniz her şeyi bu notebookda da yapabilirsiniz. Python kodlarınızı bu bilgisayarda yazıp çalıştırabilirsiniz.
 (İlk satıra "!nvidia-smi" yazıp Shift+Enter 'e basıp test edebilirsiniz.)
 
 # Oluşturduğumuz Notebook 'a GPU Desteği Sağlayalım
