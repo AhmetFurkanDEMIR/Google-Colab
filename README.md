@@ -124,7 +124,13 @@ Hatta buna matris ya da tensör makinesi (matrix/tensor machine) de denmektedir.
 ```linux
 !sudo su
 ``` 
-Komutunu kullanarak Notebook unuzun çalıştığı ana makineye ulaşabilirsiniz.
+Komutunu kullanarak Notebook umuzun çalıştığı ana makineye ulaşabiliriz.
+
+![ilk](https://user-images.githubusercontent.com/54184905/92137155-84535880-ee15-11ea-99b9-b9d601f62620.png)
+
+Burada açılan dikdörtgen kutuya, Unix işletim sistemlerinde çalışan komutları girebilirsiniz. Komutları yazarken ** şeklinde gözükecektir, siz yazmaya devam edin ve ardından Enter'e basınız. Yazdığınız komutlar başarıyla çalışacaktır. :)
+
+![son](https://user-images.githubusercontent.com/54184905/92137159-84ebef00-ee15-11ea-87dc-18d3606e1679.png)
 
 
 # CPU vs GPU vs TPU
